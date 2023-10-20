@@ -9,12 +9,14 @@ MVVM mimarisine uygun Firebase, Alamofire, IQKeyboard Manager, RxSwift kütüpha
 
 
 # Alamofire ile ilgili verileri görüntüleme,filtreleyerek kategorilendirme
-<img width="246" alt="home" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/f31696c3-1ee2-4c1b-91d2-9b06b3845dc6">
-<img width="246" alt="drinks" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/9600d5c1-1a97-47dc-ade0-52e82c2d702b">
+<img width="246" alt="home" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/06621211-3a95-4246-9d54-6624d4fb7682">
+<img width="246" alt="drinks" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/aa74bd0a-4538-4911-a026-c68cccede340">
 
 # Table View yapısı sayesinde ürün detaylarına ulaşma, ürünün adet sayısını ayarlayabilme
-<img width="246" alt="detail" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/7959a8bc-1e65-48e6-a808-c8c723f9edb4">
+<img width="246" alt="detail" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/ed27af75-524a-497c-9c61-974f1b8c8417">
+
 
 # Alamofire ile sepete eklenen verileri listeleme
-<img width="246" alt="cart" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/51ad4a4e-fd97-4023-a7b2-2550d6fd53a1">
-<img width="246" alt="signout" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/6d4f4ea3-f58f-4def-9d00-84a2b7ca6056">
+<img width="246" alt="cart" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/de0c04f5-c0f9-4067-a56c-6a9c8cbb276f">
+<img width="246" alt="signout" src="https://github.com/zehraCoskun/FoodDelivery/assets/110024096/4e112815-dfe2-466f-b921-918f7a2a4174">
+
